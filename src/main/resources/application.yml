@@ -1,0 +1,7 @@
+
+spring:
+  application:
+    name: imagetopdf
+
+server:
+  port: 8162
